@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 16 21:45:40 SGT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0182-0741-f985-0000051fe120 
+on database directory C:\Users\Administrator\EateryApp\myDB with class loader sun.misc.Launcher$AppClassLoader@4e25154f 
+Loaded from file:/C:/Users/Administrator/EateryApp/target/bg-jobs/sbt_9dcfb3fc/target/45c90102/2903ffb3/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_333-b02
+user.dir=C:\Users\Administrator\EateryApp
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

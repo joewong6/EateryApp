@@ -1,0 +1,66 @@
+.background {
+    -fx-background-color: rgb(251, 253, 141);
+}
+
+.label {
+    -fx-font-size: 12pt;
+    -fx-font-family: "Times New Roman";
+    -fx-text-fill: black;
+    -fx-opacity: 0.95;
+}
+
+.label-Head, .column-Header {
+    -fx-font-size: 16pt;
+    -fx-font-weight: bold;
+    -fx-text-fill: black;
+    -fx-opacity: 1;
+}
+.table-view {
+    -fx-base: #f7eb82;
+    -fx-control-inner-background: f7eb82;
+    -fx-background-color: f7eb82;
+    -fx-text-fill:black;
+    -fx-table-cell-border-color: white;
+    -fx-table-header-border-color: white;
+    -fx-padding: 5;
+}
+
+.button {
+    -fx-border-color: #e2e2e2;
+    -fx-border-width: 1;
+    -fx-background-radius: 0;
+    -fx-background-color: rgb(251, 253, 141);
+    -fx-font-family: "Times New Roman", sans-serif;
+    -fx-font-size: 10pt;
+    -fx-text-fill: black;
+    -fx-opacity: 1;
+    -fx-background-insets: 0 0 0 0, 0, 1, 2;
+}
+
+.button:hover {
+    -fx-background-color: rgba(248, 210, 83, 0.829);
+}
+
+.button:pressed{
+    -fx-background-color: rgba(255, 255, 255, 0.829);;
+
+  }
+
+.split-pane:horizontal > .split-pane-divider {
+    -fx-border-color: #f1db0c;
+    -fx-background-color: #f1db0c;
+}
+
+.split-pane:vertical > .split-pane-divider {
+    -fx-border-color: #f1db0c;
+    -fx-background-color: #f1db0c;
+}
+
+.menu-bar {
+    -fx-background-color: derive(#e77d03,20%);
+}
+
+
+
+
+
